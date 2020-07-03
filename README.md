@@ -1,2 +1,2 @@
-# Piotr-Martynelis-Portfolio
+# Piotr Martynelis Portfolio
 My Tester’s Portfolio

@@ -5,6 +5,6 @@ My Tester’s Portfolio
 
 ## Narzędzia / Tools
 
-## Courses / Kursy
+## Kursy / Courses
 
-## Books / Książki
+## Książki / Books

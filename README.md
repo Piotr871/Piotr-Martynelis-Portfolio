@@ -8,3 +8,11 @@ My Tester’s Portfolio
 ## Kursy / Courses
 
 ## Książki / Books
+
+## Grupy testerskie / Testers group
+
+## Blogi i strony tematyczne / Recommended blogs
+
+## Webinary / Webinars
+
+## Moje projekty / My projects

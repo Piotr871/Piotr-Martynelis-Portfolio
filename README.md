@@ -11,12 +11,27 @@ My name is Piotr Martynelis. I have been dealing with customer service for almos
 
 ## Kursy / Courses
 Kurs SDA Tester oprogramowania
-## Książki / Books
 
+SDA Tester software course
+
+## Certyfikaty / Certificates
+## Książki / Books
+R.Smilgin - Zawód tester
 ## Grupy testerskie / Testers group
+Tester oprogramowania - wsparcie na starcie
+
+Testowanie oprogramowania
+
+Junior pyta, mentor odpowiada.. albo i nie
 
 ## Blogi i strony tematyczne / Recommended blogs
+testerzy.pl
 
+remigiuszbednarczyk.pl
+
+justgeek.it
 ## Webinary / Webinars
+Agile, Scrum i Kanban - wstęp do zwinnego myślenia
+
 
 ## Moje projekty / My projects

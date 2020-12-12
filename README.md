@@ -11,9 +11,6 @@ My name is Piotr Martynelis. I have been dealing with customer service for almos
 
 ## Kursy / Courses
 Kurs SDA Tester oprogramowania
-
-SDA Tester software course
-
 ## Certyfikaty / Certificates
 ## Książki / Books
 R.Smilgin - Zawód tester

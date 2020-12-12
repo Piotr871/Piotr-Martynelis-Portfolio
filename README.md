@@ -10,7 +10,7 @@ My name is Piotr Martynelis. I have been dealing with customer service for almos
 ## Narzędzia / Tools
 
 ## Kursy / Courses
-
+Kurs SDA Tester oprogramowania
 ## Książki / Books
 
 ## Grupy testerskie / Testers group
